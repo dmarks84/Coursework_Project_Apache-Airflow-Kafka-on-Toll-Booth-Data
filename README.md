@@ -2,8 +2,8 @@
 ### Part of the Coursera series: IBM Data Engineering & Python
     
 ## Summary
-We scraped website data about world banks and then manipulated the data in order to load it into a SQL database, all via API calls in Jupyter Notebooks.  We had to wrangle and transform the data; we took every step in the extract, transform, load process.
+In this project, we utilized both a SQL database and Apache Kafka and Apache Spark to read in live data from a toll booth.  We wrangled the data and converted it to the appropriate format, and then inserted it in real time into a SQL database.
 
 ## Skills (Developed & Applied)
-Programming, Python, RDBMS & SQL, SQL (SQLite)NoSQL, Databases, Numpy, Pandas, BeautifulSoup, ETL &| ELT & Data Pipelines, Webscraping, APIs
+Programming, Python, RDBMS & SQL, SQL (MySQL), Databases, Numpy, Pandas, ETL &| ELT & Data Pipelines, DAGs, Apache Airflow, Apache Kafka, Automation, Data Modeling, EDA, Data Summarization
     
