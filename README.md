@@ -1,2 +1,9 @@
-# Project_Apache-Airflow-Kafka-on-Toll-Booth-Data
-Project for IBM Data Engineering &amp; Python course on ETL &amp; Big Data -- Read in live toll booth data, wrangles and transformed, and wrote into a SQL database 
+## Project(Project_Apache-Airflow-Kafka-on-Toll-Booth-Data)
+### Part of the Coursera series: IBM Data Engineering & Python
+    
+## Summary
+We scraped website data about world banks and then manipulated the data in order to load it into a SQL database, all via API calls in Jupyter Notebooks.  We had to wrangle and transform the data; we took every step in the extract, transform, load process.
+
+## Skills (Developed & Applied)
+Programming, Python, RDBMS & SQL, SQL (SQLite)NoSQL, Databases, Numpy, Pandas, BeautifulSoup, ETL &| ELT & Data Pipelines, Webscraping, APIs
+    
